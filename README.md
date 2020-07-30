@@ -1,3 +1,6 @@
+[![Version](https://img.shields.io/badge/version-2.0.1-green.svg)](https://github.com/BigSoftVideo/BreachingVR/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 # BreachingVR
 A simple demo in VR of the inverting lenses tutorial exercise by the sociologist Harold Garfinkel. A user wearing a virtual reality headset can vertically invert their visual perception of the physical world around them (via the camera pass-through) or invert their perception of a virtual world in which the user can pick up virtual objects and use virtual tools. Very disorientating. Some people may get very sick 🤮 very quickly!
 
