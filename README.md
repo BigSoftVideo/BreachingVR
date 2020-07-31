@@ -5,7 +5,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/BigSoftVideo/BreachingVR)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BigSoftVideo/BreachingVR)
 ![GitHub issues](https://img.shields.io/github/issues/BigSoftVideo/BreachingVR)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/BigSoftVideo/BreachingVr)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/BigSoftVideo/BreachingVR)
+[![DOI](https://zenodo.org/badge/283767362.svg)](https://zenodo.org/badge/latestdoi/283767362)
 
 # BreachingVR
 A simple demo in VR of the inverting lenses tutorial exercise by the sociologist Harold Garfinkel. A user wearing a virtual reality headset can vertically invert their visual perception of the physical world around them (via the camera pass-through) or invert their perception of a virtual world in which the user can pick up virtual objects and use virtual tools. Very disorientating. Some people may get very sick 🤮 very quickly!
